@@ -1,5 +1,5 @@
 psycopg
-sqlite3
 streamlit
 pandas
 numpy
+
